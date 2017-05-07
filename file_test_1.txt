@@ -2,3 +2,4 @@ Change 02 here Set #2
 Change 03 Made this change In the Web Interface of git
 Change 04 Made this other change through the interface as well
 Change 05 Made this change on my local repo and am about to push up to git 888
+Change 06 Made a change to go back and tag this commit
